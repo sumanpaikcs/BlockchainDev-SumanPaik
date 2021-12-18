@@ -1,3 +1,4 @@
+// This is the program of solidity language 
 pragma solidity ^0.6.0;
 
 contract SolidityStorage {
